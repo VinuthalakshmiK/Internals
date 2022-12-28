@@ -1,1 +1,1 @@
-This is file2
+This is file2.updated in 1st branch
